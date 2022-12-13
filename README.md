@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Harry Fleminger</h1>
-<h3 align="center">I'm a passionate full-stack web developer from London</h3>
+<h3 align="center">I'm an aspiring but passionate full-stack web developer from London</h3>
 
 - 💻 I’m currently working on a travel app ✈️ and a cake shop 🍰
 
