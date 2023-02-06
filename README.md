@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **harry.fleminger@hotmail.com**
 
-- 📂 View my projects and personal [Portfolio](https://www.harryfleminger.info/)
+- 📂 View my projects on my [Portfolio](https://www.harryfleminger.info/)
 
 - 📄 Learn more about my expirences on [Linked in](https://www.linkedin.com/in/harry-fleminger/)
 
