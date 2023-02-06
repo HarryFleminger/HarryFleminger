@@ -1,12 +1,14 @@
 
 <h1 align="center">Hi 👋, I'm Harry Fleminger</h1>
-<h3 align="center">I'm an aspiring but passionate front-end leaning full-stack web developer from London</h3>
+<h3 align="center">I'm an aspiring but passionate full-stack web developer from London</h3>
 
 - 💻 I’m currently working on a cake shop for a popular Instagram account 🍰
 
-- 🌱 I’m studying the Javascript library react <img src="https://camo.githubusercontent.com/48d099290b4cb2d7937bcd96e8497cf1845b54a810a6432c70cf944b60b40c77/68747470733a2f2f7261776769742e636f6d2f676f72616e67616a69632f72656163742d69636f6e732f6d61737465722f72656163742d69636f6e732e737667" align="center" alt="react" width="20px" height="20px"/>
+- 🌱 I’m masting Ruby on Rails <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="20" height="20"/> </a>
 
 - 📫 How to reach me **harry.fleminger@hotmail.com**
+
+- 📂 View my projects and personal [Portfolio](https://www.harryfleminger.info/)
 
 - 📄 Learn more about my expirences on [Linked in](https://www.linkedin.com/in/harry-fleminger/)
 
