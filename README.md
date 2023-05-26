@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Harry Fleminger</h1>
 <h3 align="center">I'm an aspiring but passionate full-stack web developer from London</h3>
 
-- 💻 I’m currently working on a cake shop for a popular Instagram account 🍰
+- 💻 I’m currently developing a new website for [Bcentred](https://www.bcentred.com) 
 
 - 🌱 I’m masting Ruby on Rails <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="20" height="20"/> </a>
 
